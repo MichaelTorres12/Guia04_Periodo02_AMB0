@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "sv.edu.ufg.fis.amb.torrescallejas_tc100321"
+    namespace = "sv.edu.ufg.fis.amb.TorresCallejas_TC100220"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "sv.edu.ufg.fis.amb.torrescallejas_tc100321"
+        applicationId = "sv.edu.ufg.fis.amb.TorresCallejas_TC100220"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
